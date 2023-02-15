@@ -80,7 +80,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> https://www.middlefitting.site/home
+> https://www.middlefitting.site
 
 - [Live Demo Link](https://www.middlefitting.site)
 
