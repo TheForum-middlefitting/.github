@@ -27,7 +27,7 @@
 
 # 📖 The Forum <a name="about-project"></a>
 
-> 만들어가는 커뮤니티 게시판</br>
+> 내가 만들어가는 커뮤니티 게시판</br>
 
 **잘 만들어진** 게시판을 꿈꾸는 토이 프로젝트입니다.</br></br>
 **CI/CD** 를 통해 발전해 나갑니다! </br>
@@ -82,15 +82,7 @@
 
 > https://www.middlefitting.site/home
 
-- [Live Demo Link](https://www.middlefitting.site/home)
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- [Live Demo Link](https://www.middlefitting.site)
 
 <!-- AUTHORS -->
 
