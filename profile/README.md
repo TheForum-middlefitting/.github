@@ -1,27 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/76660692/219355761-f543afac-c107-468d-a37d-70e9641db00a.png" alt="logo" width="250"  height="auto" />
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
 </div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Project overview](#project-overview)
-    - [key features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -31,7 +13,7 @@
 
 **잘 만들어진** 게시판을 꿈꾸는 토이 프로젝트입니다.</br></br>
 **CI/CD** 를 통해 발전해 나갑니다! </br>
-
+<br/>
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -60,7 +42,6 @@
 <span><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/></span>&nbsp;
 
-
 <!-- Overview -->
 
 ### Project Overview <a name="project-overview"></a>
@@ -75,15 +56,13 @@
 - **[로그인]**
 - **[게시글 및 댓글]**
 - **[클라이언트 캐싱]**
-
+<br/>
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > https://www.middlefitting.site
-
-- [Live Demo Link](https://www.middlefitting.site)
-
+<br/>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -92,7 +71,7 @@
 
 - GitHub: https://github.com/middlefitting
 - Email: wjdtmdcjf2@gmail.com
-
+<br/>
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -100,7 +79,7 @@
 - [ ] **[조회수 및 댓글수]**
 - [ ] **[소셜 로그인]**
 - [ ] **[캐싱]**
-
+<br/>
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
