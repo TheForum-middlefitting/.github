@@ -44,7 +44,7 @@
 <!-- Overview -->
 ### Architecture Diagram <a name="architecture-diagram"></a>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/76660692/219383722-762154aa-d219-4538-b6be-1ee44d96caba.png" alt="logo" width="900"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/76660692/219442612-647065c6-bb7c-4070-b37a-4579d86ce4f2.png" alt="logo" width="900"  height="auto" />
 </div>
 
 <!-- Features -->
