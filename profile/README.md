@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/76660692/219355761-f543afac-c107-468d-a37d-70e9641db00a.png" alt="logo" width="250"  height="auto" />
-  <br/>
 </div>
 
 <!-- PROJECT DESCRIPTION -->
@@ -43,12 +42,10 @@
 <span><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/></span>&nbsp;
 
 <!-- Overview -->
-
-### Project Overview <a name="project-overview"></a>
-
-> Describe between 1-3 overview picture of the application.
-
-- **[picture]**
+### Architecture Diagram <a name="architecture-diagram"></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/76660692/219383722-762154aa-d219-4538-b6be-1ee44d96caba.png" alt="logo" width="900"  height="auto" />
+</div>
 
 <!-- Features -->
 
@@ -75,7 +72,7 @@
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
+- [ ] **[모든 외부요청을 HTTPS 로만 처리 -> 진행중..]**
 - [ ] **[조회수 및 댓글수]**
 - [ ] **[소셜 로그인]**
 - [ ] **[캐싱]**
