@@ -56,10 +56,10 @@
 <br/>
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 > https://www.middlefitting.site
-<br/>
+<br/> -->
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
